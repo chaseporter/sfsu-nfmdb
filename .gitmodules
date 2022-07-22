@@ -1,0 +1,3 @@
+[submodule "FMDB"]
+	path = FMDB
+	url = https://github.com/jdrucker1/FMDB.git
