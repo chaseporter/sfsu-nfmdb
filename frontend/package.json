@@ -1,0 +1,14 @@
+{
+    "name": "sjsu-nfmdb",
+    "private": true,
+    "version": "0.0.0",
+    "description": "Online server for SJSU WIRC NFMDB",
+    "license": "SJSU",
+    "devDependencies": {
+        "http-server": "^14.1.0"
+    },
+    "scripts": {
+        "prestart": "npm install",
+        "dev": "http-server -g -a localhost -p 8000 -c-1"
+    }
+}

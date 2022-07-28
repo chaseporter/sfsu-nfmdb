@@ -1,0 +1,351 @@
+site_number,site,gacc,state,grup,lat,lng,active,currency,url
+0,12 Rd @ 54 Rd,NOCC,CA,Tahoe NF,39.570555555556,-120.49277777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=12 Rd @ 54 Rd&gacc=NOCC&state=CA&grup=Tahoe NF
+1,12 Rd @ CG,NOCC,CA,Tahoe NF,39.607222222222,-120.48027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=12 Rd @ CG&gacc=NOCC&state=CA&grup=Tahoe NF
+2,17Rd,NOCC,CA,Lassen NF,40.362222222222,-121.63666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=17Rd&gacc=NOCC&state=CA&grup=Lassen NF
+3,25 Road Chinquapin,NOCC,CA,Tahoe NF,39.539166666667,-121.00194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=25 Road Chinquapin&gacc=NOCC&state=CA&grup=Tahoe NF
+4,25 Road manzanita,NOCC,CA,Tahoe NF,39.539166666667,-121.00194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=25 Road manzanita&gacc=NOCC&state=CA&grup=Tahoe NF
+5,4S Ranch,SOCC,CA,Rancho Santa Fe Fire Protection,33.035,-117.10333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=4S Ranch&gacc=SOCC&state=CA&grup=Rancho Santa Fe Fire Protection
+6,Alder,NOCC,CA,Mendocino NF,39.648888888889,-122.73055555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Alder&gacc=NOCC&state=CA&grup=Mendocino NF
+7,Alder 1000 hr,NOCC,CA,Mendocino NF,39.648888888889,-122.73055555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Alder 1000 hr&gacc=NOCC&state=CA&grup=Mendocino NF
+8,Alder 19,NOCC,CA,Mendocino NF,39.6575,-122.71861111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Alder 19&gacc=NOCC&state=CA&grup=Mendocino NF
+9,Alder New,NOCC,CA,Mendocino NF,39.648888888889,-122.73055555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Alder New&gacc=NOCC&state=CA&grup=Mendocino NF
+10,Alderpoint,NOCC,CA,PGE - NOCC,40.186388888889,-123.58944444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Alderpoint&gacc=NOCC&state=CA&grup=PGE - NOCC
+11,Ammon,NOCC,CA,Six Rivers NF,40.835277777778,-123.59972222222,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Ammon&gacc=NOCC&state=CA&grup=Six Rivers NF
+12,Angeles Forest Hwy,SOCC,CA,SCE,34.425,-118.08944444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Angeles Forest Hwy&gacc=SOCC&state=CA&grup=SCE
+13,Anza,SOCC,CA,SCE,33.548333333333,-116.71777777778,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Anza&gacc=SOCC&state=CA&grup=SCE
+14,Anza,SOCC,CA,CDF Riverside Unit,33.548333333333,-116.7175,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Anza&gacc=SOCC&state=CA&grup=CDF Riverside Unit
+15,"Apperson Manzanita, Whiteleaf New",SOCC,CA,Sierra NF,36.956388888889,-119.2075,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Apperson Manzanita, Whiteleaf New&gacc=SOCC&state=CA&grup=Sierra NF"
+16,"Apperson Manzanita, Whiteleaf Old",SOCC,CA,Sierra NF,36.956388888889,-119.2075,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Apperson Manzanita, Whiteleaf Old&gacc=SOCC&state=CA&grup=Sierra NF"
+17,Ash Mountain,SOCC,CA,Sequoia-Kings NP,36.489166666667,-118.82722222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Ash Mountain&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+18,Badger Pass,SOCC,CA,Yosemite NP,37.662777777778,-119.66138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Badger Pass&gacc=SOCC&state=CA&grup=Yosemite NP
+19,Bald Mountain Lookout,NOCC,CA,Eldorado NF,38.905555555556,-120.70833333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bald Mountain Lookout&gacc=NOCC&state=CA&grup=Eldorado NF
+20,Banning,SOCC,CA,SCE,33.905555555556,-116.88138888889,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Banning&gacc=SOCC&state=CA&grup=SCE
+21,"Barnes Manzanita, Whiteleaf New",SOCC,CA,Sierra NF,37.012222222222,-119.23527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Barnes Manzanita, Whiteleaf New&gacc=SOCC&state=CA&grup=Sierra NF"
+22,"Barnes Manzanita, Whiteleaf Old",SOCC,CA,Sierra NF,37.012222222222,-119.23527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Barnes Manzanita, Whiteleaf Old&gacc=SOCC&state=CA&grup=Sierra NF"
+23,Barnes Mountain,SOCC,CA,PGE-SOCC,37.026111111111,-119.25083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Barnes Mountain&gacc=SOCC&state=CA&grup=PGE-SOCC
+24,"Barnes Pine, Ponderosa",SOCC,CA,Sierra NF,37.012222222222,-119.23527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Barnes Pine, Ponderosa&gacc=SOCC&state=CA&grup=Sierra NF"
+25,Barrett,SOCC,CA,SDG&E,32.666388888889,-116.7,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Barrett&gacc=SOCC&state=CA&grup=SDG&E
+26,Basin,NOCC,CA,Lassen NF,40.377777777778,-121.32694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Basin&gacc=NOCC&state=CA&grup=Lassen NF
+27,Big Bar,NOCC,CA,Shasta-Trinity NF,40.742222222222,-123.24916666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Big Bar&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+28,Big Creek,SOCC,CA,SCE,37.191111111111,-119.28027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Big Creek&gacc=SOCC&state=CA&grup=SCE
+29,Big Hill,NOCC,CA,Eldorado NF,38.828888888889,-120.40305555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Big Hill&gacc=NOCC&state=CA&grup=Eldorado NF
+30,Big Trees,NOCC,CA,Tahoe NF,39.0525,-120.55527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Big Trees&gacc=NOCC&state=CA&grup=Tahoe NF
+31,Big Valley,NOCC,CA,CalFire Lassen-Modoc Unit,41.065555555556,-121.21944444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Big Valley&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+32,Bishop/Keoughs Hot Springs,SOCC,CA,SCE,37.260555555556,-118.36722222222,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bishop/Keoughs Hot Springs&gacc=SOCC&state=CA&grup=SCE
+33,"Bitter Canyon, Castaic",SOCC,CA,LA County,34.51,-118.59444444444,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Bitter Canyon, Castaic&gacc=SOCC&state=CA&grup=LA County"
+34,Black Star,SOCC,CA,Orange County Fire,33.754722222222,-117.67083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Black Star&gacc=SOCC&state=CA&grup=Orange County Fire
+35,Black Star CNF,SOCC,CA,Cleveland NF,33.754722222222,-117.67083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Black Star CNF&gacc=SOCC&state=CA&grup=Cleveland NF
+36,Blackberry Hill,NOCC,CA,CalFire Santa Clara Unit,37.210833333333,-121.95388888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Blackberry Hill&gacc=NOCC&state=CA&grup=CalFire Santa Clara Unit
+37,Blatchley,NOCC,CA,Tahoe NF,39.525,-120.32777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Blatchley&gacc=NOCC&state=CA&grup=Tahoe NF
+38,Bloomer Hill - SW Old,NOCC,CA,CalFire Butte Unit,39.654166666667,-121.46277777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bloomer Hill - SW Old&gacc=NOCC&state=CA&grup=CalFire Butte Unit
+39,Blue Mountain,NOCC,CA,Modoc NF,41.838611111111,-120.85305555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Blue Mountain&gacc=NOCC&state=CA&grup=Modoc NF
+40,Blue Ridge,NOCC,CA,Klamath NF,41.269444444444,-123.1875,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Blue Ridge&gacc=NOCC&state=CA&grup=Klamath NF
+41,Bonny Doon,NOCC,CA,PGE - NOCC,37.051111111111,-122.13777777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bonny Doon&gacc=NOCC&state=CA&grup=PGE - NOCC
+42,Bottle Rock,NOCC,CA,PGE - NOCC,38.86,-122.76972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bottle Rock&gacc=NOCC&state=CA&grup=PGE - NOCC
+43,Bouquet Canyon,SOCC,CA,LA County,34.486111111111,-118.47277777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bouquet Canyon&gacc=SOCC&state=CA&grup=LA County
+44,Bowman,NOCC,CA,PGE - NOCC,38.914722222222,-121.05083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bowman&gacc=NOCC&state=CA&grup=PGE - NOCC
+45,Bowman Lake Road chinquapin,NOCC,CA,Tahoe NF,39.381111111111,-120.67527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bowman Lake Road chinquapin&gacc=NOCC&state=CA&grup=Tahoe NF
+46,Brandy City Tanoak,NOCC,CA,Tahoe NF,39.539722222222,-121.02388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Brandy City Tanoak&gacc=NOCC&state=CA&grup=Tahoe NF
+47,Bridgeport,SOCC,CA,SCE,38.125555555556,-119.18166666667,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Bridgeport&gacc=SOCC&state=CA&grup=SCE
+48,"Buckeye Manzanita, Whiteleaf New",SOCC,CA,Sierra NF,37.033611111111,-119.38527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Buckeye Manzanita, Whiteleaf New&gacc=SOCC&state=CA&grup=Sierra NF"
+49,"Buckeye Manzanita, Whiteleaf Old",SOCC,CA,Sierra NF,37.033611111111,-119.38527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Buckeye Manzanita, Whiteleaf Old&gacc=SOCC&state=CA&grup=Sierra NF"
+50,Cachuma,SOCC,CA,Santa Barbara County FD,34.58,-119.97777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cachuma&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+51,Cameron,SOCC,CA,Cleveland NF,32.733611111111,-116.45,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cameron&gacc=SOCC&state=CA&grup=Cleveland NF
+52,Cary Reservoir,NOCC,CA,Modoc NF,41.1075,-121.00194444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cary Reservoir&gacc=NOCC&state=CA&grup=Modoc NF
+53,Case Springs RAWS,SOCC,CA,CDF San Diego Unit,33.441388888889,-117.39666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Case Springs RAWS&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+54,Cedar Grove,SOCC,CA,Sequoia-Kings NP,36.791944444444,-118.66111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cedar Grove&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+55,"Cedarbrook, ponderosa Pine",SOCC,CA,Sierra NF,37.421944444444,-119.67916666667,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Cedarbrook, ponderosa Pine&gacc=SOCC&state=CA&grup=Sierra NF"
+56,Chabot,NOCC,CA,PGE - NOCC,37.793611111111,-122.14305555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Chabot&gacc=NOCC&state=CA&grup=PGE - NOCC
+57,Chester,NOCC,CA,CalFire Lassen-Modoc Unit,40.316111111111,-121.09388888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Chester&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+58,"Circle X, Malibu",SOCC,CA,Ventura County FD,34.110833333333,-118.93722222222,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Circle X, Malibu&gacc=SOCC&state=CA&grup=Ventura County FD"
+59,"Clark Motorway, Malibu",SOCC,CA,LA County,34.084444444444,-118.8625,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Clark Motorway, Malibu&gacc=SOCC&state=CA&grup=LA County"
+60,Clayton Ranch,NOCC,CA,CalFire Santa Clara Unit,37.913611111111,-121.85166666667,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Clayton Ranch&gacc=NOCC&state=CA&grup=CalFire Santa Clara Unit
+61,Clearlake,NOCC,CA,PGE - NOCC,38.96,-122.6325,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Clearlake&gacc=NOCC&state=CA&grup=PGE - NOCC
+62,Coastal,SOCC,CA,Camp Pendleton,33.3875,-117.57416666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Coastal&gacc=SOCC&state=CA&grup=Camp Pendleton
+63,Cold Springs,NOCC,CA,Modoc NF,41.833888888889,-120.34777777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cold Springs&gacc=NOCC&state=CA&grup=Modoc NF
+64,Combined,SOCC,CA,Inyo NF,37.735277777778,-119.00027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Combined&gacc=SOCC&state=CA&grup=Inyo NF
+65,Converse,SOCC,CA,San Bernardino NF,34.189722222222,-116.89055555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Converse&gacc=SOCC&state=CA&grup=San Bernardino NF
+66,Corralitos,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.004166666667,-121.81555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Corralitos&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+67,Corralitos New Growth,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.004166666667,-121.81555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Corralitos New Growth&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+68,Corralitos Old Growth,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.004166666667,-121.81555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Corralitos Old Growth&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+69,Cottage,SOCC,CA,Stanislaus NF,38.345,-120.22833333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cottage&gacc=SOCC&state=CA&grup=Stanislaus NF
+70,Cottonwood,SOCC,CA,San Bernardino NF,34.288888888889,-117.3625,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cottonwood&gacc=SOCC&state=CA&grup=San Bernardino NF
+71,Cow Mountain,NOCC,CA,CalFire Mendocino Unit,39.128333333333,-123.10472222222,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cow Mountain&gacc=NOCC&state=CA&grup=CalFire Mendocino Unit
+72,Cow Mountain 2,NOCC,CA,CalFire Mendocino Unit,39.127222222222,-123.12,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Cow Mountain 2&gacc=NOCC&state=CA&grup=CalFire Mendocino Unit
+73,Crane Flat - New,SOCC,CA,Yosemite NP,37.749722222222,-119.80583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crane Flat - New&gacc=SOCC&state=CA&grup=Yosemite NP
+74,Crane Flat - Old,SOCC,CA,Yosemite NP,37.749722222222,-119.80583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crane Flat - Old&gacc=SOCC&state=CA&grup=Yosemite NP
+75,Crestview 1000 hour,SOCC,CA,Inyo NF,37.735277777778,-119.00027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crestview 1000 hour&gacc=SOCC&state=CA&grup=Inyo NF
+76,Crestview sagebrush combined averages,SOCC,CA,Inyo NF,37.735277777778,-119.00027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crestview sagebrush combined averages&gacc=SOCC&state=CA&grup=Inyo NF
+77,Crestview sagebrush new growth,SOCC,CA,Inyo NF,37.735277777778,-119.00027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crestview sagebrush new growth&gacc=SOCC&state=CA&grup=Inyo NF
+78,Crestview sagebrush old growth,SOCC,CA,Inyo NF,37.735277777778,-119.00027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Crestview sagebrush old growth&gacc=SOCC&state=CA&grup=Inyo NF
+79,Darling Ridge,NOCC,CA,Eldorado NF,38.890833333333,-120.76472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Darling Ridge&gacc=NOCC&state=CA&grup=Eldorado NF
+80,De Sabla,NOCC,CA,PGE - NOCC,39.871388888889,-121.61555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=De Sabla&gacc=NOCC&state=CA&grup=PGE - NOCC
+81,Deer Hill,NOCC,CA,Modoc NF,41.561944444444,-121.14138888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deer Hill&gacc=NOCC&state=CA&grup=Modoc NF
+82,Deer Valley - DF,NOCC,CA,Mendocino NF,39.264444444444,-122.86944444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deer Valley - DF&gacc=NOCC&state=CA&grup=Mendocino NF
+83,Deer Valley 1000hr,NOCC,CA,Mendocino NF,39.264444444444,-122.86944444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deer Valley 1000hr&gacc=NOCC&state=CA&grup=Mendocino NF
+84,Deer Valley-New,NOCC,CA,Mendocino NF,39.264444444444,-122.86944444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deer Valley-New&gacc=NOCC&state=CA&grup=Mendocino NF
+85,Deluz-New Growth,SOCC,CA,SDG&E,33.430833333333,-117.30666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deluz-New Growth&gacc=SOCC&state=CA&grup=SDG&E
+86,Deluz-Old Growth,SOCC,CA,SDG&E,33.430833333333,-117.30666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Deluz-Old Growth&gacc=SOCC&state=CA&grup=SDG&E
+87,Denten Creek,NOCC,CA,Plumas NF,39.779444444444,-120.59472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Denten Creek&gacc=NOCC&state=CA&grup=Plumas NF
+88,DESCANSO STATION,SOCC,CA,Cleveland NF,32.856944444444,-116.62222222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=DESCANSO STATION&gacc=SOCC&state=CA&grup=Cleveland NF
+89,Descanso-New Growth,SOCC,CA,SDG&E,32.865555555556,-116.61777777778,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Descanso-New Growth&gacc=SOCC&state=CA&grup=SDG&E
+90,Descanso-Old Growth,SOCC,CA,SDG&E,32.865555555556,-116.61777777778,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Descanso-Old Growth&gacc=SOCC&state=CA&grup=SDG&E
+91,Dutch Flat,NOCC,CA,PGE - NOCC,39.206666666667,-120.84111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Dutch Flat&gacc=NOCC&state=CA&grup=PGE - NOCC
+92,Eagle Lake,NOCC,CA,CalFire Lassen-Modoc Unit,40.465833333333,-120.75805555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Eagle Lake&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+93,East Grade,SOCC,CA,SDG&E,33.26,-116.76388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=East Grade&gacc=SOCC&state=CA&grup=SDG&E
+94,El Apajo,SOCC,CA,Rancho Santa Fe Fire Protection,33.02,-117.16916666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=El Apajo&gacc=SOCC&state=CA&grup=Rancho Santa Fe Fire Protection
+95,El Cariso CNF,SOCC,CA,Cleveland NF,33.6625,-117.41722222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=El Cariso CNF&gacc=SOCC&state=CA&grup=Cleveland NF
+96,El Portal,SOCC,CA,Yosemite NP,37.679722222222,-119.78472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=El Portal&gacc=SOCC&state=CA&grup=Yosemite NP
+97,El Portal - New,SOCC,CA,Yosemite NP,37.679722222222,-119.78472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=El Portal - New&gacc=SOCC&state=CA&grup=Yosemite NP
+98,Elk Creek,SOCC,CA,Sequoia-Kings NP,36.510833333333,-118.80527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Elk Creek&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+99,Elk Mountain - New Growth,NOCC,CA,Mendocino NF,39.264722222222,-122.93083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Elk Mountain - New Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+100,Elk Mountain - Old Growth,NOCC,CA,Mendocino NF,39.264722222222,-122.93083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Elk Mountain - Old Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+101,Ewing Reservoir,NOCC,CA,Shasta-Trinity NF,40.565,-123.16944444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Ewing Reservoir&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+102,Fallbrook-New Growth,SOCC,CA,SDG&E,33.430555555556,-117.24694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Fallbrook-New Growth&gacc=SOCC&state=CA&grup=SDG&E
+103,Fallbrook-Old Growth,SOCC,CA,SDG&E,33.430555555556,-117.24694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Fallbrook-Old Growth&gacc=SOCC&state=CA&grup=SDG&E
+104,Fernwood,NOCC,CA,CalFire Humboldt Unit,40.869166666667,-123.85,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Fernwood&gacc=NOCC&state=CA&grup=CalFire Humboldt Unit
+105,FH-7 - New Growth,NOCC,CA,Mendocino NF,39.664444444444,-122.63805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=FH-7 - New Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+106,FH-7 - Old Growth,NOCC,CA,Mendocino NF,39.664444444444,-122.63805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=FH-7 - Old Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+107,Foresta - New,SOCC,CA,Yosemite NP,37.7025,-119.74472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Foresta - New&gacc=SOCC&state=CA&grup=Yosemite NP
+108,Foresta - Old,SOCC,CA,Yosemite NP,37.7025,-119.74472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Foresta - Old&gacc=SOCC&state=CA&grup=Yosemite NP
+109,Fortynine C2A,NOCC,CA,BLM -Northern CA District,41.600277777778,-119.97444444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Fortynine C2A&gacc=NOCC&state=CA&grup=BLM -Northern CA District
+110,Fouts Springs,NOCC,CA,PGE - NOCC,39.368333333333,-122.615,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Fouts Springs&gacc=NOCC&state=CA&grup=PGE - NOCC
+111,Frazier Park,SOCC,CA,PGE-SOCC,34.828611111111,-118.93694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Frazier Park&gacc=SOCC&state=CA&grup=PGE-SOCC
+112,Frazier Park new growth,SOCC,CA,Kern County FD,34.824444444444,-118.93694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Frazier Park new growth&gacc=SOCC&state=CA&grup=Kern County FD
+113,Frazier Park old growth,SOCC,CA,Kern County FD,34.824444444444,-118.93694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Frazier Park old growth&gacc=SOCC&state=CA&grup=Kern County FD
+114,Friend Mountain,NOCC,CA,Shasta-Trinity NF,40.505277777778,-123.34333333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Friend Mountain&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+115,Gasquet,NOCC,CA,Six Rivers NF,41.849722222222,-124.0075,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Gasquet&gacc=NOCC&state=CA&grup=Six Rivers NF
+116,Geysers (Sonoma County),NOCC,CA,CalFire Lake Napa Unit,38.775833333333,-122.82083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Geysers (Sonoma County)&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+117,Geysers Peak,NOCC,CA,CalFire Lake Napa Unit,38.775833333333,-122.82083333333,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Geysers Peak&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+118,Gifford,SOCC,CA,Los Padres NF,35.108888888889,-120.07638888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Gifford&gacc=SOCC&state=CA&grup=Los Padres NF
+119,Glendora Motorway,SOCC,CA,Angeles NF,34.165833333333,-117.86138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Glendora Motorway&gacc=SOCC&state=CA&grup=Angeles NF
+120,"Glendora Ridge, Glendora",SOCC,CA,LA County,34.165277777778,-117.865,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Glendora Ridge, Glendora&gacc=SOCC&state=CA&grup=LA County"
+121,Gold Creek,SOCC,CA,Angeles NF,34.321944444444,-118.31777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Gold Creek&gacc=SOCC&state=CA&grup=Angeles NF
+122,Grant Grove,SOCC,CA,Sequoia-Kings NP,36.747222222222,-118.97666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Grant Grove&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+123,Grasshopper,NOCC,CA,CalFire Lassen-Modoc Unit,40.766388888889,-120.73027777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Grasshopper&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+124,Greenhorn Yreka,NOCC,CA,CalFire Siskiyou Unit,41.711666666667,-122.65888888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Greenhorn Yreka&gacc=NOCC&state=CA&grup=CalFire Siskiyou Unit
+125,Groveland,SOCC,CA,Stanislaus NF,37.698333333333,-120.11694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Groveland&gacc=SOCC&state=CA&grup=Stanislaus NF
+126,Happy Camp,NOCC,CA,CalFire Lassen-Modoc Unit,41.446666666667,-121.17027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Happy Camp&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+127,Happy Canyon,SOCC,CA,PGE-SOCC,34.665,-119.93944444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Happy Canyon&gacc=SOCC&state=CA&grup=PGE-SOCC
+128,Harris Grade,SOCC,CA,Santa Barbara County FD,34.691388888889,-120.44555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Harris Grade&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+129,Haskell Peak Road Manzanita,NOCC,CA,Tahoe NF,39.649722222222,-120.61805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Haskell Peak Road Manzanita&gacc=NOCC&state=CA&grup=Tahoe NF
+130,Hastings New Growth,SOCC,CA,CDF BEU,36.384722222222,-121.55027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hastings New Growth&gacc=SOCC&state=CA&grup=CDF BEU
+131,Hastings Old Growth,SOCC,CA,CDF BEU,36.384722222222,-121.55027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hastings Old Growth&gacc=SOCC&state=CA&grup=CDF BEU
+132,Hayfork Compound,NOCC,CA,Shasta-Trinity NF,40.549166666667,-123.16583333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hayfork Compound&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+133,Hazel,NOCC,CA,Eldorado NF,38.750833333333,-120.49972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hazel&gacc=NOCC&state=CA&grup=Eldorado NF
+134,Henrys,NOCC,CA,Eldorado NF,38.605555555556,-120.58416666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Henrys&gacc=NOCC&state=CA&grup=Eldorado NF
+135,Highway 168,SOCC,CA,SCE,37.148055555556,-119.26611111111,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Highway 168&gacc=SOCC&state=CA&grup=SCE
+136,Hog Hole,NOCC,CA,CalFire Mendocino Unit,39.709166666667,-123.29944444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hog Hole&gacc=NOCC&state=CA&grup=CalFire Mendocino Unit
+137,Hogsback,NOCC,CA,Lassen NF,40.268888888889,-121.86805555556,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hogsback&gacc=NOCC&state=CA&grup=Lassen NF
+138,Hollister,NOCC,CA,PGE - NOCC,36.779444444444,-121.46861111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Hollister&gacc=NOCC&state=CA&grup=PGE - NOCC
+139,Holst Rd,NOCC,CA,PGE - NOCC,38.496944444444,-122.61333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Holst Rd&gacc=NOCC&state=CA&grup=PGE - NOCC
+140,Horse,NOCC,CA,BLM -Northern CA District,40.583055555556,-120.53583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Horse&gacc=NOCC&state=CA&grup=BLM -Northern CA District
+141,HWY 20,NOCC,CA,PGE - NOCC,39.031388888889,-122.45083333333,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=HWY 20&gacc=NOCC&state=CA&grup=PGE - NOCC
+142,HWY 3 & Rush CK,NOCC,CA,Shasta-Trinity NF,40.789722222222,-122.89388888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=HWY 3 & Rush CK&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+143,Irish Hills,SOCC,CA,CDF San Luis Obispo Unit,35.253888888889,-120.7075,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Irish Hills&gacc=SOCC&state=CA&grup=CDF San Luis Obispo Unit
+144,Island Meadow,NOCC,CA,Modoc NF,41.905555555556,-120.64944444444,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Island Meadow&gacc=NOCC&state=CA&grup=Modoc NF
+145,Jake Flat,SOCC,CA,CDF Tulare Unit,36.272222222222,-118.75583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Jake Flat&gacc=SOCC&state=CA&grup=CDF Tulare Unit
+146,Janesville,NOCC,CA,CalFire Lassen-Modoc Unit,40.329166666667,-120.53555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Janesville&gacc=NOCC&state=CA&grup=CalFire Lassen-Modoc Unit
+147,Juanita,NOCC,CA,Klamath NF,41.801666666667,-122.10972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Juanita&gacc=NOCC&state=CA&grup=Klamath NF
+148,Juniper Creek C2B,NOCC,CA,BLM -Northern CA District,41.344722222222,-120.50416666667,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Juniper Creek C2B&gacc=NOCC&state=CA&grup=BLM -Northern CA District
+149,Kanaka,NOCC,CA,PGE - NOCC,39.573888888889,-121.30583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Kanaka&gacc=NOCC&state=CA&grup=PGE - NOCC
+150,"Kinsman Ceanothus, Buckbrush New",SOCC,CA,Sierra NF,37.198055555556,-119.41972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Kinsman Ceanothus, Buckbrush New&gacc=SOCC&state=CA&grup=Sierra NF"
+151,"Kinsman Ceanothus, Buckbrush Old",SOCC,CA,Sierra NF,37.198055555556,-119.41972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Kinsman Ceanothus, Buckbrush Old&gacc=SOCC&state=CA&grup=Sierra NF"
+152,"Kinsman Manzanita, Whiteleaf New",SOCC,CA,Sierra NF,37.198055555556,-119.41972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Kinsman Manzanita, Whiteleaf New&gacc=SOCC&state=CA&grup=Sierra NF"
+153,"Kinsman Manzanita, Whiteleaf Old",SOCC,CA,Sierra NF,37.198055555556,-119.41972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Kinsman Manzanita, Whiteleaf Old&gacc=SOCC&state=CA&grup=Sierra NF"
+154,Konocti,NOCC,CA,CalFire Lake Napa Unit,38.920277777778,-122.72138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Konocti&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+155,"La Tuna Canyon, Tujunga",SOCC,CA,LA County,34.246666666667,-118.30277777778,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=La Tuna Canyon, Tujunga&gacc=SOCC&state=CA&grup=LA County"
+156,Lady Bug,SOCC,CA,Angeles NF,34.261111111111,-118.115,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lady Bug&gacc=SOCC&state=CA&grup=Angeles NF
+157,Laguna Beach,SOCC,CA,Orange County Fire,33.551111111111,-117.78555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Laguna Beach&gacc=SOCC&state=CA&grup=Orange County Fire
+158,"Laguna Ridge, Casitas",SOCC,CA,Ventura County FD,34.4,-119.37888888889,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Laguna Ridge, Casitas&gacc=SOCC&state=CA&grup=Ventura County FD"
+159,Lake Hughes,SOCC,CA,Angeles NF,34.543333333333,-118.56138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lake Hughes&gacc=SOCC&state=CA&grup=Angeles NF
+160,Lake Isabella new growth,SOCC,CA,Kern County FD,35.679444444444,-118.48111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lake Isabella new growth&gacc=SOCC&state=CA&grup=Kern County FD
+161,Lake Isabella old growth,SOCC,CA,Kern County FD,35.679444444444,-118.48111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lake Isabella old growth&gacc=SOCC&state=CA&grup=Kern County FD
+162,Lake Mendocino,NOCC,CA,PGE - NOCC,39.180555555556,-122.17222222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lake Mendocino&gacc=NOCC&state=CA&grup=PGE - NOCC
+163,Lakeshore,NOCC,CA,Shasta-Trinity NF,40.870833333333,-122.38972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lakeshore&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+164,Lamb Canyon,SOCC,CA,SCE,33.905555555556,-116.99888888889,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lamb Canyon&gacc=SOCC&state=CA&grup=SCE
+165,Las Posadas,NOCC,CA,CalFire Lake Napa Unit,38.564444444444,-122.40361111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Las Posadas&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+166,Las Posadas State Forest,NOCC,CA,CalFire Lake Napa Unit,38.564444444444,-122.40361111111,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Las Posadas State Forest&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+167,Las Trampas,NOCC,CA,PGE - NOCC,37.816666666667,-122.04555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Las Trampas&gacc=NOCC&state=CA&grup=PGE - NOCC
+168,"Laurel Canyon, Mt. Olympus",SOCC,CA,LA County,34.124722222222,-118.36888888889,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Laurel Canyon, Mt. Olympus&gacc=SOCC&state=CA&grup=LA County"
+169,Lava Beds Average,NOCC,CA,Lava Beds National Monument,41.7075,-121.48472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lava Beds Average&gacc=NOCC&state=CA&grup=Lava Beds National Monument
+170,Lee Vining/June Lake,SOCC,CA,SCE,37.863611111111,-119.08805555556,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lee Vining/June Lake&gacc=SOCC&state=CA&grup=SCE
+171,Lincoln Crest,SOCC,CA,SCE,34.585277777778,-118.30416666667,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lincoln Crest&gacc=SOCC&state=CA&grup=SCE
+172,Lockwood New Growth,SOCC,CA,CDF BEU,35.950833333333,-121.00083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lockwood New Growth&gacc=SOCC&state=CA&grup=CDF BEU
+173,Lockwood Old Gorwth,SOCC,CA,CDF BEU,35.950833333333,-121.00083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lockwood Old Gorwth&gacc=SOCC&state=CA&grup=CDF BEU
+174,Lopez Lake,SOCC,CA,CDF San Luis Obispo Unit,35.193333333333,-120.445,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lopez Lake&gacc=SOCC&state=CA&grup=CDF San Luis Obispo Unit
+175,Los Alamos,SOCC,CA,Los Padres NF,34.701388888889,-118.81861111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Los Alamos&gacc=SOCC&state=CA&grup=Los Padres NF
+176,Los Gatos,SOCC,CA,CDF Fresno-Kings Unit,36.209166666667,-120.51194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Los Gatos&gacc=SOCC&state=CA&grup=CDF Fresno-Kings Unit
+177,"Los Robles, Thousand Oaks",SOCC,CA,Ventura County FD,34.171666666667,-118.88222222222,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Los Robles, Thousand Oaks&gacc=SOCC&state=CA&grup=Ventura County FD"
+178,Lower Cow Mountain,NOCC,CA,PGE - NOCC,39.124444444444,-123.12555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Lower Cow Mountain&gacc=NOCC&state=CA&grup=PGE - NOCC
+179,Mad Ridge Fuel Break,NOCC,CA,Six Rivers NF,40.429166666667,-123.50055555556,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mad Ridge Fuel Break&gacc=NOCC&state=CA&grup=Six Rivers NF
+180,Mad River,NOCC,CA,Six Rivers NF,40.465277777778,-123.53138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mad River&gacc=NOCC&state=CA&grup=Six Rivers NF
+181,Mammoth Airport,SOCC,CA,SCE,37.620277777778,-118.84083333333,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mammoth Airport&gacc=SOCC&state=CA&grup=SCE
+182,Manzanita Lake,NOCC,CA,Lassen NP,40.539722222222,-121.575,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Manzanita Lake&gacc=NOCC&state=CA&grup=Lassen NP
+183,Marshall Grade,NOCC,CA,CalFire Amador-Eldorado Unit,38.816111111111,-120.89583333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Marshall Grade&gacc=NOCC&state=CA&grup=CalFire Amador-Eldorado Unit
+184,McCloud,NOCC,CA,CalFire Siskiyou Unit,41.261944444444,-122.04055555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=McCloud&gacc=NOCC&state=CA&grup=CalFire Siskiyou Unit
+185,McCloud (SHF),NOCC,CA,Shasta-Trinity NF,41.293611111111,-122.05444444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=McCloud (SHF)&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+186,McKenzie - Prather,SOCC,CA,CDF Fresno-Kings Unit,37.176388888889,-119.58972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=McKenzie - Prather&gacc=SOCC&state=CA&grup=CDF Fresno-Kings Unit
+187,Midpines - New Growth,SOCC,CA,CDF Madera-Mariposa-Merced Unit,37.566666666667,-119.925,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Midpines - New Growth&gacc=SOCC&state=CA&grup=CDF Madera-Mariposa-Merced Unit
+188,Midpines - Old Growth,SOCC,CA,CDF Madera-Mariposa-Merced Unit,37.566666666667,-119.925,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Midpines - Old Growth&gacc=SOCC&state=CA&grup=CDF Madera-Mariposa-Merced Unit
+189,Mineral King,SOCC,CA,Sequoia-Kings NP,36.462222222222,-118.63222222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mineral King&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+190,Miranda,NOCC,CA,CalFire Humboldt Unit,40.216388888889,-123.78083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Miranda&gacc=NOCC&state=CA&grup=CalFire Humboldt Unit
+191,Mosquito Ridge Gorman Ranch,NOCC,CA,Tahoe NF,39.011666666667,-120.75777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mosquito Ridge Gorman Ranch&gacc=NOCC&state=CA&grup=Tahoe NF
+192,Mount Hamilton,NOCC,CA,CalFire Santa Clara Unit,37.343888888889,-121.60805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mount Hamilton&gacc=NOCC&state=CA&grup=CalFire Santa Clara Unit
+193,Mount Provo1,SOCC,CA,Stanislaus NF,38.013888888889,-120.18666666667,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mount Provo1&gacc=SOCC&state=CA&grup=Stanislaus NF
+194,Mount Shasta,NOCC,CA,Shasta-Trinity NF,41.350555555556,-122.29472222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mount Shasta&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+195,Mountain,SOCC,CA,Camp Pendleton,32.578888888889,-117.47722222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mountain&gacc=SOCC&state=CA&grup=Camp Pendleton
+196,Mountain Empire,SOCC,CA,SDG&E,32.765555555556,-116.49027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mountain Empire&gacc=SOCC&state=CA&grup=SDG&E
+197,Mountain Home Ranch,NOCC,CA,PGE - NOCC,38.569722222222,-122.62805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mountain Home Ranch&gacc=NOCC&state=CA&grup=PGE - NOCC
+198,Mountain Quail,NOCC,CA,Tahoe NF,39.64,-120.43527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mountain Quail&gacc=NOCC&state=CA&grup=Tahoe NF
+199,Mt Elizabeth,SOCC,CA,Stanislaus NF,38.063055555556,-120.2475,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mt Elizabeth&gacc=SOCC&state=CA&grup=Stanislaus NF
+200,Mt. Baldy Village,SOCC,CA,Angeles NF,34.233888888889,-117.66388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mt. Baldy Village&gacc=SOCC&state=CA&grup=Angeles NF
+201,Mt. Emma,SOCC,CA,SCE,34.480833333333,-118.06972222222,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mt. Emma&gacc=SOCC&state=CA&grup=SCE
+202,Mt. Umunhum,NOCC,CA,CalFire Santa Clara Unit,37.14,-121.8875,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mt. Umunhum&gacc=NOCC&state=CA&grup=CalFire Santa Clara Unit
+203,Mt. Woodson Station,SOCC,CA,CDF San Diego Unit,33.002777777778,-116.96138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mt. Woodson Station&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+204,Mule Ck GS,NOCC,CA,Shasta-Trinity NF,40.862222222222,-122.81583333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Mule Ck GS&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+205,nacimiento,SOCC,CA,Los Padres NF,36.0075,-121.45,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=nacimiento&gacc=SOCC&state=CA&grup=Los Padres NF
+206,Nevada City,NOCC,CA,CalFire Nevada-Yuba Unit,39.248611111111,-121.02861111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Nevada City&gacc=NOCC&state=CA&grup=CalFire Nevada-Yuba Unit
+207,Oak Flat,SOCC,CA,Los Padres NF,34.471388888889,-118.91083333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Oak Flat&gacc=SOCC&state=CA&grup=Los Padres NF
+208,Oak Knoll,NOCC,CA,Klamath NF,41.838611111111,-122.85027777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Oak Knoll&gacc=NOCC&state=CA&grup=Klamath NF
+209,Oak Run,NOCC,CA,PGE - NOCC,40.728333333333,-122.02,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Oak Run&gacc=NOCC&state=CA&grup=PGE - NOCC
+210,Oakhurst,SOCC,CA,PGE-SOCC,37.418055555556,-119.62916666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Oakhurst&gacc=SOCC&state=CA&grup=PGE-SOCC
+211,Old Camptonville manzanita,NOCC,CA,Tahoe NF,39.448888888889,-121.06027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Old Camptonville manzanita&gacc=NOCC&state=CA&grup=Tahoe NF
+212,Old Camptonville tanoak,NOCC,CA,Tahoe NF,39.448888888889,-121.06027777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Old Camptonville tanoak&gacc=NOCC&state=CA&grup=Tahoe NF
+213,Old Man CG,NOCC,CA,Shasta-Trinity NF,40.853333333333,-122.40777777778,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Old Man CG&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+214,Old Toll Road,NOCC,CA,PGE - NOCC,38.633333333333,-122.595,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Old Toll Road&gacc=NOCC&state=CA&grup=PGE - NOCC
+215,Onion Valley,NOCC,CA,Tahoe NF,39.261388888889,-120.65166666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Onion Valley&gacc=NOCC&state=CA&grup=Tahoe NF
+216,Oregon House,NOCC,CA,PGE - NOCC,39.329444444444,-121.26,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Oregon House&gacc=NOCC&state=CA&grup=PGE - NOCC
+217,Painted Cave,SOCC,CA,Santa Barbara County FD,34.498055555556,-119.78916666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Painted Cave&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+218,Parkfield New Growth,SOCC,CA,CDF BEU,35.966666666667,-120.47305555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Parkfield New Growth&gacc=SOCC&state=CA&grup=CDF BEU
+219,Parkfield Old Growth,SOCC,CA,CDF BEU,35.966666666667,-120.47305555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Parkfield Old Growth&gacc=SOCC&state=CA&grup=CDF BEU
+220,Parkhill,SOCC,CA,CDF San Luis Obispo Unit,35.41,-120.54222222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Parkhill&gacc=SOCC&state=CA&grup=CDF San Luis Obispo Unit
+221,Paynes Creek Sportsmans Club,NOCC,CA,CalFire Tehama-Glenn Unit,40.307777777778,-121.81138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Paynes Creek Sportsmans Club&gacc=NOCC&state=CA&grup=CalFire Tehama-Glenn Unit
+222,Peach Motorway,SOCC,CA,LA County,34.355555555556,-118.53472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Peach Motorway&gacc=SOCC&state=CA&grup=LA County
+223,Peavine,NOCC,CA,Eldorado NF,38.799444444444,-120.46611111111,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Peavine&gacc=NOCC&state=CA&grup=Eldorado NF
+224,Pebble,NOCC,CA,Eldorado NF,38.688055555556,-120.41444444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pebble&gacc=NOCC&state=CA&grup=Eldorado NF
+225,Pebble Beach New Growth,SOCC,CA,CDF BEU,36.591111111111,-121.93638888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pebble Beach New Growth&gacc=SOCC&state=CA&grup=CDF BEU
+226,Pebble Beach Old Growth,SOCC,CA,CDF BEU,36.591111111111,-121.93638888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pebble Beach Old Growth&gacc=SOCC&state=CA&grup=CDF BEU
+227,Peddler,NOCC,CA,Eldorado NF,38.568333333333,-120.26694444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Peddler&gacc=NOCC&state=CA&grup=Eldorado NF
+228,Pico Canyon,SOCC,CA,LA County,34.377777777778,-118.59555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pico Canyon&gacc=SOCC&state=CA&grup=LA County
+229,Pike County,NOCC,CA,Plumas NF,39.503611111111,-121.21222222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pike County&gacc=NOCC&state=CA&grup=Plumas NF
+230,Pillsbury,NOCC,CA,Mendocino NF,39.433611111111,-122.97388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pillsbury&gacc=NOCC&state=CA&grup=Mendocino NF
+231,Pine Acres,SOCC,CA,PGE-SOCC,38.390555555556,-120.6325,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pine Acres&gacc=SOCC&state=CA&grup=PGE-SOCC
+232,Pine Cove,SOCC,CA,CDF Riverside Unit,33.721666666667,-116.7225,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pine Cove&gacc=SOCC&state=CA&grup=CDF Riverside Unit
+233,Pine Flat,NOCC,CA,PGE - NOCC,38.760833333333,-122.75777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pine Flat&gacc=NOCC&state=CA&grup=PGE - NOCC
+234,Pit River,NOCC,CA,Modoc NF,41.235,-120.40333333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pit River&gacc=NOCC&state=CA&grup=Modoc NF
+235,Placerita Canyon,SOCC,CA,LA County,34.375277777778,-118.43888888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Placerita Canyon&gacc=SOCC&state=CA&grup=LA County
+236,Plum Canyon,SOCC,CA,LA County,34.443333333333,-118.49277777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Plum Canyon&gacc=SOCC&state=CA&grup=LA County
+237,Pollock Pines,NOCC,CA,PGE - NOCC,38.762777777778,-120.66861111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pollock Pines&gacc=NOCC&state=CA&grup=PGE - NOCC
+238,ponderosa,SOCC,CA,Los Padres NF,35.998333333333,-121.38527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=ponderosa&gacc=SOCC&state=CA&grup=Los Padres NF
+239,"Ponderosa Basin Ceanothus, Buckbrush New",SOCC,CA,Sierra NF,37.476111111111,-119.75972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Ponderosa Basin Ceanothus, Buckbrush New&gacc=SOCC&state=CA&grup=Sierra NF"
+240,"Ponderosa Basin Ceanothus, Buckbrush Old",SOCC,CA,Sierra NF,37.476111111111,-119.75972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Ponderosa Basin Ceanothus, Buckbrush Old&gacc=SOCC&state=CA&grup=Sierra NF"
+241,"Ponderosa Basin Manzanita, Whiteleaf New",SOCC,CA,Sierra NF,37.476111111111,-119.75972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Ponderosa Basin Manzanita, Whiteleaf New&gacc=SOCC&state=CA&grup=Sierra NF"
+242,"Ponderosa Basin Manzanita, Whiteleaf Old",SOCC,CA,Sierra NF,37.476111111111,-119.75972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Ponderosa Basin Manzanita, Whiteleaf Old&gacc=SOCC&state=CA&grup=Sierra NF"
+243,Poonkinney Ridge,NOCC,CA,PGE - NOCC,39.731388888889,-123.31638888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Poonkinney Ridge&gacc=NOCC&state=CA&grup=PGE - NOCC
+244,Posta Mountain,SOCC,CA,SDG&E,32.784444444444,-116.4,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Posta Mountain&gacc=SOCC&state=CA&grup=SDG&E
+245,Potrero Station,SOCC,CA,CDF San Diego Unit,32.624166666667,-116.565,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Potrero Station&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+246,Pozo,SOCC,CA,PGE-SOCC,35.357777777778,-120.22972222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pozo&gacc=SOCC&state=CA&grup=PGE-SOCC
+247,Priest Grade,SOCC,CA,PGE-SOCC,37.812222222222,-120.2675,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Priest Grade&gacc=SOCC&state=CA&grup=PGE-SOCC
+248,Pulgas,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.488611111111,-122.31888888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Pulgas&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+249,Quail Hollow Ranch,NOCC,CA,CalFire Santa Clara Unit,37.086111111111,-122.06694444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Quail Hollow Ranch&gacc=NOCC&state=CA&grup=CalFire Santa Clara Unit
+250,Quartz Hill,NOCC,CA,Klamath NF,41.599444444444,-122.94388888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Quartz Hill&gacc=NOCC&state=CA&grup=Klamath NF
+251,Quartz Hill New Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.636111111111,-122.42194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Quartz Hill New Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+252,Quartz Hill Old Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.635833333333,-122.42194444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Quartz Hill Old Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+253,Quincy RD,NOCC,CA,Plumas NF,39.973333333333,-120.94194444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Quincy RD&gacc=NOCC&state=CA&grup=Plumas NF
+254,R Wild Horse Ranch,NOCC,CA,CalFire Tehama-Glenn Unit,40.311944444444,-122.79138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=R Wild Horse Ranch&gacc=NOCC&state=CA&grup=CalFire Tehama-Glenn Unit
+255,Rainbow Camp,SOCC,CA,CDF San Diego Unit,33.4275,-117.11833333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Rainbow Camp&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+256,Rainbow Valley-New Growth,SOCC,CA,SDG&E,33.43,-117.14138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Rainbow Valley-New Growth&gacc=SOCC&state=CA&grup=SDG&E
+257,Rainbow Valley-Old Growth,SOCC,CA,SDG&E,33.43,-117.14138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Rainbow Valley-Old Growth&gacc=SOCC&state=CA&grup=SDG&E
+258,Ravendale C2D,NOCC,CA,BLM -Northern CA District,40.731388888889,-120.31611111111,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Ravendale C2D&gacc=NOCC&state=CA&grup=BLM -Northern CA District
+259,Reader Ranch,NOCC,CA,CalFire Nevada-Yuba Unit,39.302777777778,-121.10972222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Reader Ranch&gacc=NOCC&state=CA&grup=CalFire Nevada-Yuba Unit
+260,Red Cap Manzanita,NOCC,CA,Six Rivers NF,41.218055555556,-123.53083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Red Cap Manzanita&gacc=NOCC&state=CA&grup=Six Rivers NF
+261,Red Fir,SOCC,CA,Sequoia-Kings NP,36.604722222222,-118.76833333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Red Fir&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+262,Refugio,SOCC,CA,Santa Barbara County FD,34.518333333333,-120.07666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Refugio&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+263,Reyes Creek,SOCC,CA,Los Padres NF,34.678333333333,-119.30972222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Reyes Creek&gacc=SOCC&state=CA&grup=Los Padres NF
+264,Riparian,SOCC,CA,Camp Pendleton,33.393611111111,-117.52333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Riparian&gacc=SOCC&state=CA&grup=Camp Pendleton
+265,RMV,SOCC,CA,Orange County Fire,33.5,-117.51666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=RMV&gacc=SOCC&state=CA&grup=Orange County Fire
+266,Rollins Reservoir,NOCC,CA,PGE - NOCC,39.1525,-120.92333333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Rollins Reservoir&gacc=NOCC&state=CA&grup=PGE - NOCC
+267,Rose Valley,SOCC,CA,Los Padres NF,34.550555555556,-119.17638888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Rose Valley&gacc=SOCC&state=CA&grup=Los Padres NF
+268,Sagehen,NOCC,CA,Tahoe NF,39.446388888889,-120.21888888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sagehen&gacc=NOCC&state=CA&grup=Tahoe NF
+269,"Saginaw Pine, Ponderosa",SOCC,CA,Sierra NF,37.198055555556,-119.41972222222,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Saginaw Pine, Ponderosa&gacc=SOCC&state=CA&grup=Sierra NF"
+270,Sailor Flat,NOCC,CA,Tahoe NF,39.180277777778,-120.50305555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sailor Flat&gacc=NOCC&state=CA&grup=Tahoe NF
+271,Salmon Falls,NOCC,CA,CalFire Amador-Eldorado Unit,38.787222222222,-121.04138888889,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Salmon Falls&gacc=NOCC&state=CA&grup=CalFire Amador-Eldorado Unit
+272,San Felipe,SOCC,CA,SDG&E,33.1975,-116.59805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=San Felipe&gacc=SOCC&state=CA&grup=SDG&E
+273,San Jacinto,SOCC,CA,CDF Riverside Unit,33.793888888889,-116.92611111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=San Jacinto&gacc=SOCC&state=CA&grup=CDF Riverside Unit
+274,San Marcos,SOCC,CA,Los Padres NF,34.511944444444,-119.80555555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=San Marcos&gacc=SOCC&state=CA&grup=Los Padres NF
+275,Saratoga Summit,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.245,-122.11027777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Saratoga Summit&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+276,Sardine,NOCC,CA,Tahoe NF,39.513055555556,-120.165,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sardine&gacc=NOCC&state=CA&grup=Tahoe NF
+277,"Schueren Road, Malibu",SOCC,CA,LA County,34.078888888889,-118.64472222222,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Schueren Road, Malibu&gacc=SOCC&state=CA&grup=LA County"
+278,Sedco Hills,SOCC,CA,SCE,33.641388888889,-117.23944444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sedco Hills&gacc=SOCC&state=CA&grup=SCE
+279,Shasta Dam,NOCC,CA,PGE - NOCC,40.693611111111,-122.42722222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Shasta Dam&gacc=NOCC&state=CA&grup=PGE - NOCC
+280,Shaver Lake,SOCC,CA,SCE,37.103611111111,-119.30722222222,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Shaver Lake&gacc=SOCC&state=CA&grup=SCE
+281,Shinar Saddle,NOCC,CA,Klamath NF,41.848333333333,-123.33611111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Shinar Saddle&gacc=NOCC&state=CA&grup=Klamath NF
+282,Shingletown,NOCC,CA,PGE - NOCC,40.527222222222,-121.91,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Shingletown&gacc=NOCC&state=CA&grup=PGE - NOCC
+283,Silver Fork,NOCC,CA,Eldorado NF,38.715833333333,-120.22,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Silver Fork&gacc=NOCC&state=CA&grup=Eldorado NF
+284,"Sisar Canyon, Upper Ojai Valley",SOCC,CA,Ventura County FD,34.4475,-119.13527777778,0,3,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Sisar Canyon, Upper Ojai Valley&gacc=SOCC&state=CA&grup=Ventura County FD"
+285,Six Shooter,NOCC,CA,Klamath NF,41.719444444444,-121.71194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Six Shooter&gacc=NOCC&state=CA&grup=Klamath NF
+286,Smith Ranch,SOCC,CA,CDF BEU,36.544722222222,-121.16083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Smith Ranch&gacc=SOCC&state=CA&grup=CDF BEU
+287,SO,NOCC,CA,Lake Tahoe Basin M.U.,38.932222222222,-119.97194444444,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=SO&gacc=NOCC&state=CA&grup=Lake Tahoe Basin M.U.
+288,Sonora,SOCC,CA,CDF Toulumne-Calaveras Unit,38.003333333333,-120.35166666667,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sonora&gacc=SOCC&state=CA&grup=CDF Toulumne-Calaveras Unit
+289,Spunky Canyon,SOCC,CA,SCE,34.585277777778,-118.36027777778,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Spunky Canyon&gacc=SOCC&state=CA&grup=SCE
+290,ST RTE 35 & 92,NOCC,CA,CalFire San Mateo- Santa Cruz Unit,37.487222222222,-122.36416666667,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=ST RTE 35 & 92&gacc=NOCC&state=CA&grup=CalFire San Mateo- Santa Cruz Unit
+291,Stampede,NOCC,CA,Tahoe NF,39.4725,-120.09805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Stampede&gacc=NOCC&state=CA&grup=Tahoe NF
+292,Station 14 New Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.9125,-121.63333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Station 14 New Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+293,Station 14 Old Growth and 1000 Hr,NOCC,CA,CalFire Shasta-Trinity Unit,40.912777777778,-121.63333333333,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Station 14 Old Growth and 1000 Hr&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+294,Station 60 New Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.751666666667,-122.90416666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Station 60 New Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+295,Station 60 old growth and 1000 Hr.,NOCC,CA,CalFire Shasta-Trinity Unit,40.751944444444,-122.90416666667,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Station 60 old growth and 1000 Hr.&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+296,Stony Gorge,NOCC,CA,CalFire Tehama-Glenn Unit,39.599722222222,-122.52916666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Stony Gorge&gacc=NOCC&state=CA&grup=CalFire Tehama-Glenn Unit
+297,Stonyford,NOCC,CA,Mendocino NF,39.356944444444,-122.63777777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Stonyford&gacc=NOCC&state=CA&grup=Mendocino NF
+298,Strawberry,SOCC,CA,San Bernardino NF,33.708333333333,-116.77083333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Strawberry&gacc=SOCC&state=CA&grup=San Bernardino NF
+299,"Stunt Road, Calabasas",SOCC,CA,LA County,34.101111111111,-118.655,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Stunt Road, Calabasas&gacc=SOCC&state=CA&grup=LA County"
+300,Succor Flat,NOCC,CA,Tahoe NF,39.123888888889,-120.80388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Succor Flat&gacc=NOCC&state=CA&grup=Tahoe NF
+301,Sugar Hill,NOCC,CA,Modoc NF,41.835277777778,-120.34861111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sugar Hill&gacc=NOCC&state=CA&grup=Modoc NF
+302,Sugarloaf,NOCC,CA,Eldorado NF,38.7875,-120.31277777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sugarloaf&gacc=NOCC&state=CA&grup=Eldorado NF
+303,Sugarloaf (SHF),NOCC,CA,Shasta-Trinity NF,40.915833333333,-122.43472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sugarloaf (SHF)&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+304,Summit,SOCC,CA,Yosemite NP,37.671666666667,-119.65722222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Summit&gacc=SOCC&state=CA&grup=Yosemite NP
+305,Summit1,SOCC,CA,Stanislaus NF,38.1925,-120.12305555556,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Summit1&gacc=SOCC&state=CA&grup=Stanislaus NF
+306,Summit2,SOCC,CA,Stanislaus NF,38.166944444444,-120.11055555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Summit2&gacc=SOCC&state=CA&grup=Stanislaus NF
+307,Suncrest,SOCC,CA,SDG&E,32.813055555556,-116.67861111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Suncrest&gacc=SOCC&state=CA&grup=SDG&E
+308,Sweetland,NOCC,CA,PGE - NOCC,39.326944444444,-121.11111111111,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sweetland&gacc=NOCC&state=CA&grup=PGE - NOCC
+309,Sycamore Canyon,SOCC,CA,LA County,34.1525,-117.80194444444,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Sycamore Canyon&gacc=SOCC&state=CA&grup=LA County
+310,TahoeDonner,NOCC,CA,CalFire Nevada-Yuba Unit,39.339722222222,-120.27333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=TahoeDonner&gacc=NOCC&state=CA&grup=CalFire Nevada-Yuba Unit
+311,"Tapo Canyon, Simi Valley",SOCC,CA,Ventura County FD,34.306388888889,-118.71027777778,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Tapo Canyon, Simi Valley&gacc=SOCC&state=CA&grup=Ventura County FD"
+312,Tehachapi new growth,SOCC,CA,Kern County FD,35.096944444444,-118.49111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tehachapi new growth&gacc=SOCC&state=CA&grup=Kern County FD
+313,Tehachapi old growth,SOCC,CA,Kern County FD,35.096944444444,-118.49111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tehachapi old growth&gacc=SOCC&state=CA&grup=Kern County FD
+314,Temecula,SOCC,CA,CDF Riverside Unit,33.4575,-117.17111111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Temecula&gacc=SOCC&state=CA&grup=CDF Riverside Unit
+315,Temescal CNF,SOCC,CA,Cleveland NF,33.748055555556,-117.48138888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Temescal CNF&gacc=SOCC&state=CA&grup=Cleveland NF
+316,Templeton,SOCC,CA,PGE-SOCC,35.463055555556,-120.74888888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Templeton&gacc=SOCC&state=CA&grup=PGE-SOCC
+317,Templin Highway,SOCC,CA,LA County,34.571666666667,-118.67777777778,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Templin Highway&gacc=SOCC&state=CA&grup=LA County
+318,Tepusquet,SOCC,CA,Santa Barbara County FD,34.988055555556,-120.19666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tepusquet&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+319,Throckmorton,NOCC,CA,Marin Co,37.913333333333,-122.58,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Throckmorton&gacc=NOCC&state=CA&grup=Marin Co
+320,Tollhouse,SOCC,CA,PGE-SOCC,37.043333333333,-119.40388888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tollhouse&gacc=SOCC&state=CA&grup=PGE-SOCC
+321,Tollhouse,SOCC,CA,SCE,32.036944444444,-119.38638888889,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tollhouse&gacc=SOCC&state=CA&grup=SCE
+322,Tonzi Road,NOCC,CA,CalFire Amador-Eldorado Unit,38.411388888889,-120.88638888889,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tonzi Road&gacc=NOCC&state=CA&grup=CalFire Amador-Eldorado Unit
+323,"Trippet Ranch, Topanga",SOCC,CA,LA County,34.093333333333,-118.59777777778,0,2,"http://www.wfas.net/nfmd/public/download_site_data.php?site=Trippet Ranch, Topanga&gacc=SOCC&state=CA&grup=LA County"
+324,Trough - New Growth,NOCC,CA,Mendocino NF,39.356111111111,-122.64166666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Trough - New Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+325,Trough - Old Growth,NOCC,CA,Mendocino NF,39.356111111111,-122.64166666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Trough - Old Growth&gacc=NOCC&state=CA&grup=Mendocino NF
+326,Tyler Foote,NOCC,CA,CalFire Nevada-Yuba Unit,39.330555555556,-121.11222222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Tyler Foote&gacc=NOCC&state=CA&grup=CalFire Nevada-Yuba Unit
+327,Upper Ojai Valley,SOCC,CA,Ventura County FD,34.441388888889,-119.09833333333,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Upper Ojai Valley&gacc=SOCC&state=CA&grup=Ventura County FD
+328,upper oso,SOCC,CA,Los Padres NF,34.554166666667,-119.76722222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=upper oso&gacc=SOCC&state=CA&grup=Los Padres NF
+329,USBOR,NOCC,CA,CalFire Nevada-Yuba Unit,38.923333333333,-121.02527777778,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=USBOR&gacc=NOCC&state=CA&grup=CalFire Nevada-Yuba Unit
+330,Vallecito,SOCC,CA,PGE-SOCC,38.102222222222,-120.45388888889,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Vallecito&gacc=SOCC&state=CA&grup=PGE-SOCC
+331,Valley,SOCC,CA,Camp Pendleton,33.338055555556,-117.31472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Valley&gacc=SOCC&state=CA&grup=Camp Pendleton
+332,Valley Springs,SOCC,CA,CDF Toulumne-Calaveras Unit,38.114722222222,-120.79,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Valley Springs&gacc=SOCC&state=CA&grup=CDF Toulumne-Calaveras Unit
+333,Walker Ridge,NOCC,CA,CalFire Lake Napa Unit,39.035555555556,-122.45472222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Walker Ridge&gacc=NOCC&state=CA&grup=CalFire Lake Napa Unit
+334,Warner Springs Station,SOCC,CA,CDF San Diego Unit,33.271666666667,-116.63888888889,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Warner Springs Station&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+335,Wawona - New,SOCC,CA,Yosemite NP,37.563055555556,-119.69333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Wawona - New&gacc=SOCC&state=CA&grup=Yosemite NP
+336,Wawona - Old,SOCC,CA,Yosemite NP,37.563055555556,-119.69333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Wawona - Old&gacc=SOCC&state=CA&grup=Yosemite NP
+337,Weaverville New Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.727777777778,-122.92611111111,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Weaverville New Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+338,Weaverville Old Growth,NOCC,CA,CalFire Shasta-Trinity Unit,40.728333333333,-122.92611111111,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Weaverville Old Growth&gacc=NOCC&state=CA&grup=CalFire Shasta-Trinity Unit
+339,Weed Mill Site,NOCC,CA,CalFire Siskiyou Unit,41.435277777778,-122.35722222222,0,2,http://www.wfas.net/nfmd/public/download_site_data.php?site=Weed Mill Site&gacc=NOCC&state=CA&grup=CalFire Siskiyou Unit
+340,West Gaviota,SOCC,CA,Santa Barbara County FD,34.489722222222,-120.36,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=West Gaviota&gacc=SOCC&state=CA&grup=Santa Barbara County FD
+341,West of Old Man CG,NOCC,CA,Shasta-Trinity NF,40.862777777778,-122.43694444444,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=West of Old Man CG&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+342,Whaleback Mtn,NOCC,CA,Lassen NF,40.617222222222,-120.87222222222,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Whaleback Mtn&gacc=NOCC&state=CA&grup=Lassen NF
+343,Whiskeytown,NOCC,CA,Whiskeytown NRA,40.65,-122.58333333333,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Whiskeytown&gacc=NOCC&state=CA&grup=Whiskeytown NRA
+344,White Star,SOCC,CA,CDF San Diego Unit,32.646944444444,-116.31666666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=White Star&gacc=SOCC&state=CA&grup=CDF San Diego Unit
+345,Woolsey Canyon,SOCC,CA,LA County,34.2325,-118.66583333333,1,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Woolsey Canyon&gacc=SOCC&state=CA&grup=LA County
+346,Yolla Bolla,NOCC,CA,Shasta-Trinity NF,40.3375,-123.06555555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Yolla Bolla&gacc=NOCC&state=CA&grup=Shasta-Trinity NF
+347,Yosemite Valley,SOCC,CA,Yosemite NP,37.721944444444,-119.60416666667,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Yosemite Valley&gacc=SOCC&state=CA&grup=Yosemite NP
+348,Yucca,SOCC,CA,Sequoia-Kings NP,36.492222222222,-118.82944444444,0,1,http://www.wfas.net/nfmd/public/download_site_data.php?site=Yucca&gacc=SOCC&state=CA&grup=Sequoia-Kings NP
+349,Ziegler,NOCC,CA,Six Rivers NF,40.893055555556,-123.51805555556,0,3,http://www.wfas.net/nfmd/public/download_site_data.php?site=Ziegler&gacc=NOCC&state=CA&grup=Six Rivers NF
